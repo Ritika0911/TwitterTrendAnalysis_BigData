@@ -92,7 +92,6 @@ Source code:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query1/query1.JPG)
 
 Output:
-![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/QueryRiskyActivities.java)
 
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/country.jpg)
@@ -178,7 +177,8 @@ Special features: Java RDD, mapToPair, reduceByKey, flatMap
 
 Source code:
  
-![]()
+![Source Code](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/QueryRiskyActivities.java)
+
 
 Output:
 ![]()
