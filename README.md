@@ -92,11 +92,11 @@ Source code:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query1/query1.JPG)
 
 Output:
-![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/country.jpg)
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/QueryRiskyActivities.java)
 
 Visualization:
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/country.jpg)
 
-![]()
 
 ## Query2: Dataframe to return top hashtags
 
@@ -186,4 +186,8 @@ Output:
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/riskyvsnonrisky.jpg)
  
+
+Report : 
+
+https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/PB-Team%2018%20Phase%203.pdf
 
