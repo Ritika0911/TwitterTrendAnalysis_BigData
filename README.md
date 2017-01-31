@@ -68,13 +68,16 @@ As part of this project, I have created one Java class to setup Spark Configurat
 
 ### Source code for this is shown below:
 
- 
+ ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/SparkCOnf.JPG)
+
 
 
 
 
 ### Keywords to collect Tweets: 
  
+ ![KeyWords](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/KeywordsList.java)
+
 
 
 ## Query1: Dataframe to return top countries
@@ -93,6 +96,8 @@ Source code:
 
 Output:
 
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query1/query1countrywiseoutput.JPG)
+
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/country.jpg)
 
@@ -106,9 +111,9 @@ This query makes use of the hashtag file provided. It is basically join of hasht
 Special features: Dataframe , Join with another hashtags text file ,groupBy,orderBy
 
 Source code:
-![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query/query1.JPG)
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query2/query2hashtags.JPG)
 Output:
-![]()
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query2/query2hashtagsoutput.JPG)
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/hashtags.jpg)
  
@@ -122,17 +127,17 @@ Special features: UDF, calling Public API
 
 UClassify JSON Response:
 
- ![]()
+ ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query3/uclassifyjsonresponse.JPG)
 
 Source code: UDF source code:
 
-![]()
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query3/query3udf3.JPG)
  
 
 
 Output:
 
-![]()
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query3/query3agegroupoutput.JPG)
  
 
 Visualization:
@@ -150,16 +155,13 @@ Special features:  Java RDD, mapToPair, reduceByKey, flatMap, sortBy, swap
 
 Source code:
 
- ![]()
-
-
-
+ ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query4/query4final.JPG)
 
 
 
 Output:
 
- ![]()
+ ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query4/query4popularwordsoutput.JPG)
 
 
 
@@ -177,11 +179,11 @@ Special features: Java RDD, mapToPair, reduceByKey, flatMap
 
 Source code:
  
-![Source Code](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%202/QueryRiskyActivities.java)
+![Source Code](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query5/query5risk.JPG)
 
 
 Output:
-![]()
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query5/query5output.JPG)
 
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/riskyvsnonrisky.jpg)
