@@ -92,9 +92,11 @@ Source code:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query1/query1.JPG)
 
 Output:
-
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/country.jpg)
 
 Visualization:
+
+![]()
 
 ## Query2: Dataframe to return top hashtags
 
@@ -107,8 +109,9 @@ Special features: Dataframe , Join with another hashtags text file ,groupBy,orde
 Source code:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query/query1.JPG)
 Output:
+![]()
 Visualization:
-
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/hashtags.jpg)
  
 
 ## Query 3: Dataframe to call Public API to classify tweets based                 on age group
@@ -120,42 +123,22 @@ Special features: UDF, calling Public API
 
 UClassify JSON Response:
 
- 
+ ![]()
 
 Source code: UDF source code:
 
-
+![]()
  
 
 
 Output:
 
-
+![]()
  
 
 Visualization:
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/agegroup.jpg)
 
 
 ## Query 4: JAVA RDD query to get Top activities
@@ -168,7 +151,7 @@ Special features:  Java RDD, mapToPair, reduceByKey, flatMap, sortBy, swap
 
 Source code:
 
- 
+ ![]()
 
 
 
@@ -177,13 +160,13 @@ Source code:
 
 Output:
 
- 
+ ![]()
 
 
 
 Visualization:
 
-
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/popularwords.JPG)
  
 
 
@@ -195,10 +178,12 @@ Special features: Java RDD, mapToPair, reduceByKey, flatMap
 
 Source code:
  
+![]()
 
 Output:
- 
-Visualization:
+![]()
 
+Visualization:
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/riskyvsnonrisky.jpg)
  
 
