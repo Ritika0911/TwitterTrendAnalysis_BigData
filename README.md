@@ -89,6 +89,7 @@ Special features: Dataframe , Union
 
 Source code:
 
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query1/query1.JPG)
 
 Output:
 
@@ -104,7 +105,7 @@ This query makes use of the hashtag file provided. It is basically join of hasht
 Special features: Dataframe , Join with another hashtags text file ,groupBy,orderBy
 
 Source code:
-
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/query/query1.JPG)
 Output:
 Visualization:
 
