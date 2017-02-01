@@ -59,7 +59,7 @@ Following is the software architecture for our project.
 ## User Interface
 
 Snapshot:
-
+![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/HomeScreen.JPG)
 
 Queries
 
